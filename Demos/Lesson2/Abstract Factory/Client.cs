@@ -10,7 +10,7 @@ namespace AbstractFactory
 			BuildVehicle("car");
 			
 			Console.WriteLine();
-			BuildVehicle("van");
+			BuildVehicle("truck");
 
 			Console.ReadLine();
 		}
@@ -26,7 +26,7 @@ namespace AbstractFactory
 			}
 			else
 			{
-				factory = new VanFactory();
+				factory = new TruckFactory();
 			}
 
 			// Create the vehicle's component parts...
