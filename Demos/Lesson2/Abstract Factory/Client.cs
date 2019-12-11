@@ -12,6 +12,7 @@ namespace AbstractFactory
 			Console.WriteLine();
 			BuildVehicle("truck");
 
+			Console.WriteLine("Done");
 			Console.ReadLine();
 		}
 
