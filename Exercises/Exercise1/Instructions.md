@@ -18,3 +18,5 @@ Other courses will not appear on the students' transcripts. These will be graded
 ## Additional Resources
 
 Any questions to clarify the details of the scenario should be directed to the instructor.
+
+some other text, modified by drew
